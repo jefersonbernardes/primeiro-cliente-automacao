@@ -1,0 +1,31 @@
+[0623/082028.076:ERROR:process_reader_win.cc(123)] NtOpenThread: {Acesso Negado} Um processo solicitou acesso a um objeto, mas o direito de acesso não lhe foi concedido. (0xc0000022)
+[0623/082028.078:ERROR:exception_snapshot_win.cc(98)] thread ID 18960 not found in process
+[0623/082028.085:ERROR:process_reader_win.cc(123)] NtOpenThread: {Acesso Negado} Um processo solicitou acesso a um objeto, mas o direito de acesso não lhe foi concedido. (0xc0000022)
+[0623/082028.086:ERROR:exception_snapshot_win.cc(98)] thread ID 17640 not found in process
+[0623/082028.087:ERROR:process_reader_win.cc(123)] NtOpenThread: {Acesso Negado} Um processo solicitou acesso a um objeto, mas o direito de acesso não lhe foi concedido. (0xc0000022)
+[0623/082028.116:ERROR:process_reader_win.cc(151)] SuspendThread: Acesso negado. (0x5)
+[0623/082028.116:ERROR:process_reader_win.cc(123)] NtOpenThread: {Acesso Negado} Um processo solicitou acesso a um objeto, mas o direito de acesso não lhe foi concedido. (0xc0000022)
+[0623/082028.091:ERROR:process_reader_win.cc(123)] NtOpenThread: Foi especificado um identificador de cliente inválido. (0xc000000b)
+[0623/082028.445:ERROR:exception_snapshot_win.cc(98)] thread ID 7832 not found in process
+[0623/082028.445:ERROR:exception_snapshot_win.cc(98)] thread ID 37756 not found in process
+[0623/082028.445:ERROR:process_reader_win.cc(123)] NtOpenThread: Foi especificado um identificador de cliente inválido. (0xc000000b)
+[0623/082028.445:ERROR:process_reader_win.cc(151)] SuspendThread: Acesso negado. (0x5)
+[0623/082028.445:ERROR:exception_snapshot_win.cc(98)] thread ID 8016 not found in process
+[0623/082028.445:ERROR:process_reader_win.cc(123)] NtOpenThread: {Acesso Negado} Um processo solicitou acesso a um objeto, mas o direito de acesso não lhe foi concedido. (0xc0000022)
+[0623/082028.446:ERROR:exception_snapshot_win.cc(98)] thread ID 41740 not found in process
+[0623/082028.446:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: Tentou-se acessar um processo de saída. (0xc000010a)
+[0623/082417.668:ERROR:process_reader_win.cc(123)] NtOpenThread: {Acesso Negado} Um processo solicitou acesso a um objeto, mas o direito de acesso não lhe foi concedido. (0xc0000022)
+[0623/082417.668:ERROR:exception_snapshot_win.cc(98)] thread ID 45376 not found in process
+[0623/082417.696:ERROR:process_reader_win.cc(123)] NtOpenThread: {Acesso Negado} Um processo solicitou acesso a um objeto, mas o direito de acesso não lhe foi concedido. (0xc0000022)
+[0623/082417.696:ERROR:exception_snapshot_win.cc(98)] thread ID 23196 not found in process
+[0623/104103.111:ERROR:process_reader_win.cc(123)] NtOpenThread: {Acesso Negado} Um processo solicitou acesso a um objeto, mas o direito de acesso não lhe foi concedido. (0xc0000022)
+[0623/104103.116:ERROR:exception_snapshot_win.cc(98)] thread ID 16388 not found in process
+[0623/104103.116:ERROR:process_reader_win.cc(123)] NtOpenThread: {Acesso Negado} Um processo solicitou acesso a um objeto, mas o direito de acesso não lhe foi concedido. (0xc0000022)
+[0623/104103.117:ERROR:exception_snapshot_win.cc(98)] thread ID 36744 not found in process
+[0623/104103.149:ERROR:process_reader_win.cc(123)] NtOpenThread: {Acesso Negado} Um processo solicitou acesso a um objeto, mas o direito de acesso não lhe foi concedido. (0xc0000022)
+[0623/104103.149:ERROR:exception_snapshot_win.cc(98)] thread ID 43228 not found in process
+[0623/104103.150:ERROR:process_reader_win.cc(123)] NtOpenThread: {Acesso Negado} Um processo solicitou acesso a um objeto, mas o direito de acesso não lhe foi concedido. (0xc0000022)
+[0623/104103.150:ERROR:exception_snapshot_win.cc(98)] thread ID 47856 not found in process
+[0623/174849.683:ERROR:process_reader_win.cc(123)] NtOpenThread: {Acesso Negado} Um processo solicitou acesso a um objeto, mas o direito de acesso não lhe foi concedido. (0xc0000022)
+[0623/174849.790:ERROR:exception_snapshot_win.cc(98)] thread ID 44016 not found in process
+[0623/174849.791:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: Tentou-se acessar um processo de saída. (0xc000010a)
